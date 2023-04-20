@@ -26,7 +26,7 @@ const greeting = {
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with Reactjs and some other cool libraries and frameworks, also Deep Learning application developer with good knowledge on python and packages such as numpy, pandas, scipy, mtplotlib, tensorflow, opencv, etc."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1c3AM9EAqfYtG8osIIJvjYUOfXbWdOtLu/view?usp=sharing", // Set to empty to hide the button
+    "https://docs.google.com/document/d/1C9eLJPcOkVEwejJ68ttN-UA_-8joY5WO/edit?usp=share_link&ouid=102816209787472930341&rtpof=true&sd=true", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -414,7 +414,7 @@ const achievementSection = {
       image: require("./assets/images/udemy.png"),
       imageAlt: "Udemy Web Development Master Class",
       footerLink: [
-        {name: "Certification", url: "https://drive.google.com/file/d/12_bcplT6HJI18I0-jD8D6oC5raPCW6SG/view?usp=share_link"},
+        {name: "Certification", url: "https://drive.google.com/file/d/1NsYuiGFAEYFU_Hc_fiQ6wsBp_g44bDF7/view?usp=share_link"},
       ]
     }
   ],
