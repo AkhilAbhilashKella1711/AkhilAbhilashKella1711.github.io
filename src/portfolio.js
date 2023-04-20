@@ -20,7 +20,7 @@ const illustration = {
 };
 
 const greeting = {
-  username: "Akhil Abhilash Kella",
+  username: "Akhil Abhilash K",
   title: "Hi, I'm Akhil Abhilash",
   subTitle: emoji(
     "A passionate Full Stack Software Developer 🚀 having an experience of building Web applications with JavaScript / Reactjs  and some other cool libraries and frameworks, also Deep Learning application developer with good knowledge on python and packages such as numpy, pandas, scipy, mtplotlib, tensorflow, opencv, etc."
