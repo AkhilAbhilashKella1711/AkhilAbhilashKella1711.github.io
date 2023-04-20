@@ -80,10 +80,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "reactjs",
       fontAwesomeClassname: "fab fa-react"
     },
-    {
-      skillName: "nodejs",
-      fontAwesomeClassname: "fab fa-node"
-    },
+    // {
+    //   skillName: "nodejs",
+    //   fontAwesomeClassname: "fab fa-node"
+    // },
     // {
     //   skillName: "swift",
     //   fontAwesomeClassname: "fab fa-swift"
@@ -96,10 +96,10 @@ https://fontawesome.com/icons?d=gallery */
       skillName: "sql-database",
       fontAwesomeClassname: "fas fa-database"
     },
-    // {
-    //   skillName: "aws",
-    //   fontAwesomeClassname: "fab fa-aws"
-    // },
+    {
+      skillName: "aws",
+      fontAwesomeClassname: "fab fa-aws"
+    },
     // {
     //   skillName: "firebase",
     //   fontAwesomeClassname: "fas fa-fire"
