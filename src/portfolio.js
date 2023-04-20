@@ -52,7 +52,7 @@ const skillsSection = {
     ),
     emoji("⚡ Develop a Machine learning and Deep learning application and deployment using flask"),
     emoji(
-      "⚡ Knowledge on data structures and algorithms and in programming languages C, C++, Python"
+      "⚡ Knowledge on data structures and algorithms and in programming languages C, C++, java, Python"
     )
   ],
 
