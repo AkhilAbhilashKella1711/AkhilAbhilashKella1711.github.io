@@ -134,10 +134,10 @@ const educationInfo = {
       desc: "Performed research on crypto-mining attacks and cursor control system using eye and face gestures, Published 1 paper",
       descBullets: [
         "Completed projects on attendance system using face detection using YOLO/Facenet",
-        "Completed Project Cursor control & Speech-to-text System for paralyzed people",
+        "Completed Project on Cursor control & Speech-to-text System for paralyzed people",
         "Attended Smart India Hackathon Finals held at IIT Kanpur on Overloaded vehicle checking project",
         "Stood Second in project design contest",
-        "Participated in many college level project presentations and received appreciations on the project and delivery about the project"
+        "Participated in many college level project presentations and received appreciations on the project"
       ]
     }
   ]
